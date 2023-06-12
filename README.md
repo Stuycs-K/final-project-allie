@@ -12,3 +12,6 @@ In order to decrpyt messages run:
 > make dec CIPHER KEY
 
 The code doesnt accept spaces in the CIPHER or MESSAGE or KEY so write without spaces
+
+[Presentation](./PRESENTATION.md)  
+[Homework](./HOMEWORK.md)
