@@ -1,22 +1,4 @@
 # Work Log
 
-## GROUP MEMBER 1
+## RAYMOND ALLIE
 
-### date x
-
-info
-
-### date y
-
-info
-
-
-## GROUP MEMBER 2
-
-### date x
-
-info
-
-### date y
-
-info
